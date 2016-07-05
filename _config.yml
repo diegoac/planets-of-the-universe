@@ -1,4 +1,4 @@
 markdown: redcarpet
-baseurl: /my-awesome-site
+baseurl: /planets-of-the-universe
 exclude: ['README.md']
 highlighter: rouge

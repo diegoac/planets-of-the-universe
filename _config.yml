@@ -1,0 +1,4 @@
+markdown: redcarpet
+baseurl: /my-awesome-site
+exclude: ['README.md']
+highlighter: rouge
